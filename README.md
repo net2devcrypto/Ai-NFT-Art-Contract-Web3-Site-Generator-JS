@@ -2,7 +2,7 @@
 
 <row>
 <a href="https://bit.ly/3Mq6xRX" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/starton-white.png" width="320" height="120"></a>
-<a href="https://bit.ly/3Mq6xRX" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/OpenAI_Logo-White.png" width="270" height="90"></a>
+<a href="https://bit.ly/3Mq6xRX" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/OpenAI_Logo-White.png" width="270" height="75"></a>
 </row>
 
 👑 This app will auto generate your NFT Collection Art using OpenAI. It will generate each NFT Metadata as well then auto upload all of it to IPFS, 
