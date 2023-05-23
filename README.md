@@ -27,7 +27,7 @@ Click for video:
 
 ** PLEASE CLICK TO READ THE DISCLAIMER BEFORE CONTINUING: **
 
-https://github.com/net2devcrypto/N2D-Simple-AI-Image-Generator-WebApp/blob/main/disclaimer.txt
+https://github.com/net2devcrypto/Ai-NFT-Art-Contract-Web3-Site-Generator-JS/blob/main/disclaimer.txt
 
 ** IF YOU PROCEED TO STEP 2, YOU AGREE TO THE TERMS AND CONDITIONS IN THE DISCLAIMER **
 
