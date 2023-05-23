@@ -1,6 +1,5 @@
 # Ai-NFT-Art-Contract-Web3-Site-Generator-JS
 
-# DeFI Liquidity Pool Staking Rewards Calculator
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/n2Dex-img.png" width="190" height="80"></a>
 
 👑 This app will auto generate your NFT Collection Art using OpenAI. It will generate each NFT Metadata as well, Upload all of it to IPFS, 
