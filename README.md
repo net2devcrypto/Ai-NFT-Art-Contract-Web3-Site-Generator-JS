@@ -1,7 +1,9 @@
 # Ai-NFT-Art-Contract-Web3-Site-Generator-JS
 
+<row>
 <a href="https://bit.ly/3Mq6xRX" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/starton-white.png" width="320" height="120"></a>
-
+<a href="https://bit.ly/3Mq6xRX" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/starton-white.png" width="320" height="120"></a>
+</row>
 👑 This app will auto generate your NFT Collection Art using OpenAI. It will generate each NFT Metadata as well then auto upload all of it to IPFS, 
 auto create the smart contract then auto deploy it to the blockchain. It will also create the mint portal so you can sell the nfts!
 
@@ -12,6 +14,8 @@ auto create the smart contract then auto deploy it to the blockchain. It will al
 ** USE IT AT YOUR OWN RISK** **I'M NOT RESPONSIBLE FOR ANY USE, ISSUES ETC.. **
 
 Click for video:
+
+https://github.com/net2devcrypto/misc/blob/main/OpenAI_Logo-White.png
 
 <a href="https://youtu.be/Ar_HAWswISY" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
